@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    justify-content: left;
+}
+.carta{
+    margin: 0 auto;
+    width: 40%;
+}
+.texto{
+    margin: 10 auto;
+    width: 40%;
+}
